@@ -1,7 +1,7 @@
 # Sentinel-3-with-Dask
 
 
-Hi! In this folder, you can find my code to process Sentinel3 SLSTR data, and visualize an NDVI plot. You'll find the following in the main folder -
+Hi! In this folder, you can find my code to process Sentinel3 SLSTR data (using Dask), and visualize an NDVI plot. You'll find the following in the main folder -
 
 - Codes Folder: Contains-
  	- code to process data and compute and visualize NDVI for a 			single dataset (NDVI_Computation.ipynb). Please change the path 	to the respective dataset that you want to run it for, and change the name of the file you want to export the data to.
